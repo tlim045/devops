@@ -6,7 +6,7 @@ go:
 
 install:
 
-- go get github.com/gohugoio/hugo
+- go get GitHub.com/gohugoio/hugo
 
 script:
 
